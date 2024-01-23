@@ -1,3 +1,4 @@
 # developement-demo
-this is my first git repository
-author vivek singh
+this is my first git repository.
+<br>
+developer vivek singh
